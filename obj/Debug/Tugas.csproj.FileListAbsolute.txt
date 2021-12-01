@@ -1,0 +1,10 @@
+C:\Users\Dito\Desktop\Tugas\bin\Debug\Tugas.exe
+C:\Users\Dito\Desktop\Tugas\bin\Debug\Tugas.pdb
+C:\Users\Dito\Desktop\Tugas\obj\Debug\Tugas.csprojAssemblyReference.cache
+C:\Users\Dito\Desktop\Tugas\obj\Debug\Tugas.FrmHasilPerhitungan.resources
+C:\Users\Dito\Desktop\Tugas\obj\Debug\Tugas.FrmPerhitungan.resources
+C:\Users\Dito\Desktop\Tugas\obj\Debug\Tugas.Properties.Resources.resources
+C:\Users\Dito\Desktop\Tugas\obj\Debug\Tugas.csproj.GenerateResource.cache
+C:\Users\Dito\Desktop\Tugas\obj\Debug\Tugas.csproj.CoreCompileInputs.cache
+C:\Users\Dito\Desktop\Tugas\obj\Debug\Tugas.exe
+C:\Users\Dito\Desktop\Tugas\obj\Debug\Tugas.pdb
